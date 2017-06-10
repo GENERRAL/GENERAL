@@ -20,7 +20,7 @@ chmod +x install.sh
 
 او نصب بكود واحد
 
-git clone https://github.com/GENERAL.git && cd GENERAL && chmod +x install.sh && ./install.sh
+git clone https://github.com/GENERRAL/GENERAL.git && cd GENERAL && chmod +x install.sh && ./install.sh
 
 ● وراح يطلب منك تحط اما y او n تختار دائما y وانتر ●
 
